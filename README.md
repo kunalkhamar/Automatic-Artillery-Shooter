@@ -3,8 +3,11 @@
 [![alt text][image1]][image1]
 ---
 ## See it in action
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7p31mz6peEQ?rel=0" frameborder="0" allowfullscreen></iframe>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OjpaVEqBVFo?rel=0" frameborder="0" allowfullscreen></iframe>
 [vid1]: https://youtu.be/7p31mz6peEQ
-[vid1img]: https://img.youtube.com/vi/7p31mz6peEQ
+[img1]: https://img.youtube.com/vi/7p31mz6peEQ/0.jpg "Watch on YouTube"
 [vid2]: https://youtu.be/OjpaVEqBVFo
+[img2]: http://img.youtube.com/vi/OjpaVEqBVFo/0.jpg "Watch on YouTube"
+#### Run 1
+[![alt text][img1]][vid1]
+#### Run 2  
+[![alt text][img2]][vid2]
